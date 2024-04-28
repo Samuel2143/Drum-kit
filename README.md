@@ -3,7 +3,7 @@
 ## Description
 Drum Kit is a simple web application built using HTML, CSS, and JavaScript. It allows users to play various drum sounds by clicking on buttons or pressing corresponding keys on the keyboard.
 
-[Site]()
+#### Live site : https://samuel2143.github.io/Drum-kit/
 
 ## Features
 - Seven drum buttons corresponding to different sounds.
